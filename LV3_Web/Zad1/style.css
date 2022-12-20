@@ -1,0 +1,42 @@
+ol {
+    border: 2px solid black;
+    width: 250px;
+    List-style-position: inside;
+    padding-inline-start: 0px;
+}
+
+li {
+    padding: 5px;
+    padding-left: 34px;
+    margin-bottom: 5px;
+}
+
+.Germany {
+    background: url("de.png") 1% center no-repeat rgba(255, 0, 0, 0.75);
+    margin: 5px;
+}
+
+.Spain {
+    background: url("es.png") 1% center no-repeat rgba(0, 0, 255, 0.5);
+    margin: 5px;
+}
+
+.GB {
+    background: url("en-GB.png") 1% center no-repeat rgba(0, 255, 0, 0.25);
+    margin: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
+    text-transform: uppercase;
+}
+
+#6 {
+    margin-bottom: 0px;
+}
