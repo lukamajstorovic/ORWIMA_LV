@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ORWIMA_LV6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bruno_petkovic">Bruno Petkovic</string>
+    <string name="mateo_kovacic">Mateo Kovacic</string>
+    <string name="luka_modric">Luka Modric</string>
+    <string name="borna_barisic">Borna Barisic</string>
+    <string name="naprijed">Naprijed</string>
+    <string name="natrag">Natrag</string>
+    <string name="najbolji_nogometas">Najbolji nogometas Hrvatske nogometne reprezentacije je:</string>
+</resources>
