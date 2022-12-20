@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613586095445",
+    "project_id": "orwma-lv8-majstorovic",
+    "storage_bucket": "orwma-lv8-majstorovic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613586095445:android:d7a73e2dff73e5db5373dc",
+        "android_client_info": {
+          "package_name": "hr.ferit.lukamajstorovic.orwma_lv8_lm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613586095445-0f21r43is4cb97pttv6lcn4kmedlhe3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZF2EkaYj0p7l9NDQphiHWo2N0hStozfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613586095445-0f21r43is4cb97pttv6lcn4kmedlhe3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

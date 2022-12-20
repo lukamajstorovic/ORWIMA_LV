@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ORWMA_LV8_LM</string>
+    <string name="default_image_url">https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg</string>
+    <string name="person_name">Person Name</string>
+    <string name="person_description">Person Description</string>
+    <string name="save">Save</string>
+</resources>
