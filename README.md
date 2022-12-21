@@ -1,3 +1,3 @@
-# ORWIMA_LV
+# Web and android development labs
 
-Laboratorijske vjezbe iz predmeta Osnove razvoja web i mobilnih aplikacija
+Laboratory exercises of the Web and Mobile Development class
